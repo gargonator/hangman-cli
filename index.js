@@ -80,6 +80,8 @@ function hangmanGame() {
 // initialize the game!
 hangmanGame();
 
+// see updated portfolio page here: https://gargonator.github.io/Responsive-Portfolio/portfolio.html
+
 // game pseudocode
 // 1. select random word
 // 2. display word
